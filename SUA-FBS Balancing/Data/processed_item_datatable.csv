@@ -1,0 +1,183 @@
+"measured_item_cpc","measured_item_cpc_description","faostat"
+"23110","Wheat and meslin flour",TRUE
+"23120","Other cereal flours",TRUE
+"23170","Other vegetable flours and meals",TRUE
+"22249.01","Butter and Ghee of Sheep Milk",TRUE
+"22241.01","Butter of Cow Milk",TRUE
+"22254","Cheese from milk of goats, fresh or processed",TRUE
+"22253","Cheese from milk of sheep, fresh or processed",TRUE
+"22110.02","Skim Milk of Cows",TRUE
+"26110","Raw silk (not thrown)",TRUE
+"22251.01","Cheese from Whole Cow Milk",TRUE
+"22251.02","Cheese from Skimmed Cow Milk",TRUE
+"21521","Pig fat, rendered",TRUE
+"22120","Cream, fresh",TRUE
+"22241.02","Ghee from Cow Milk",TRUE
+"22212","Skim milk and whey powder",TRUE
+"22222.01","Whole Milk, Condensed",TRUE
+"22211","Whole milk powder",TRUE
+"22221.01","Whole Milk, Evaporated",TRUE
+"21523","Tallow",TRUE
+"22130.02","Dry Whey",TRUE
+"22230.04","Dry Buttermilk",TRUE
+"22222.02","Skim Milk, Condensed",TRUE
+"22242.02","Ghee, from Buffalo Milk",TRUE
+"22130.03","Whey, Fresh",TRUE
+"22221.02","Skim Milk, Evaporated",TRUE
+"22242.01","Butter of Buffalo Milk",TRUE
+"22252","Cheese from milk of buffalo, fresh or processed",TRUE
+"22230.01","Yoghurt",TRUE
+"22249.02","Butter of Goat Milk",TRUE
+"01921.02","Cotton lint, ginned",TRUE
+"0143","Cottonseed",TRUE
+"23540","Molasses (from beet, cane and maize)",TRUE
+"2168","Cottonseed oil",TRUE
+"21691.12","Oil of Linseed",TRUE
+"2167","Olive oil",TRUE
+"21691.07","Oil of Sesame Seed",TRUE
+"21631.01","Sunflower-seed oil, crude",TRUE
+"2351f","NA",TRUE
+"24310.01","Beer of Barley, malted",TRUE
+"21700.02","Margarine and Shortening",TRUE
+"2162","Groundnut oil",TRUE
+"2165","Palm oil",TRUE
+"2161","Soya bean oil",TRUE
+"24212.02","Wine",TRUE
+"21641.01","Rapeseed or canola oil, crude",TRUE
+"21631.02","Safflower-seed oil, crude",TRUE
+"2166","Coconut oil",TRUE
+"21691.14","Oil of Palm Kernel",TRUE
+"01491.02","Palm kernels",TRUE
+"21691.02","Oil of Maize",TRUE
+"01930.04","Tea nes (herbal tea)",FALSE
+"01990.01","Vegetable products, fresh or dry nes",FALSE
+"02293","Raw milk of camel",FALSE
+"17400","Ice and snow",FALSE
+"23912.01","Coffee Substitutes",FALSE
+"21182","Bovine meat, salted, dried or smoked",FALSE
+"21183","Other meat and edible meat offal, salted, in brine, dried or smoked; edible flours and meals of meat or meat offal",FALSE
+"21184.01","Sausages and similar products of meat, offal or blood of beef and veal",FALSE
+"21184.02","Sausages and similar products of meat, offal or blood of pig",FALSE
+"21185","Extracts and juices of meat, fish, crustaceans, molluscs or other aquatic invertebrates",FALSE
+"21189.04","Liver Preparations",FALSE
+"21189.05","Fatty Liver Preparations",FALSE
+"21313","Potatoes, frozen",FALSE
+"21319.01","Sweet Corn, Frozen",FALSE
+"21321","Tomato juice",FALSE
+"21329","Other vegetable juices",FALSE
+"21330.90","Other vegetables provisionally preserved",FALSE
+"21340","Vegetables, pulses and potatoes, preserved by vinegar or acetic acid",FALSE
+"21393.01","Dried Mushrooms",FALSE
+"21393.90","Vegetables, Dehydrated",FALSE
+"21397.01","Canned Mushrooms",FALSE
+"21399.01","Paste of Tomatoes",FALSE
+"21399.02","Tomatoes, Peeled (O/T vinegar)",FALSE
+"21399.03","Sweet Corn, Prepared or Preserved",FALSE
+"21411","Raisins",FALSE
+"21412","Plums, dried",FALSE
+"21419.01","Apricots, Dried",FALSE
+"21419.02","Figs, Dried",FALSE
+"21422","Almonds, shelled",FALSE
+"21423","Hazelnuts, shelled",FALSE
+"21424","Cashew nuts, shelled",FALSE
+"21429.01","Brazil Nuts, Shelled",FALSE
+"21429.02","Walnuts, Shelled",FALSE
+"21429.07","Coconuts, Desiccated",FALSE
+"21431.01","Orange Juice",FALSE
+"21431.02","Orange Juice, Concentrated",FALSE
+"21432","Grapefruit juice",FALSE
+"21432.01","Grapefruit Juice, Concentrated",FALSE
+"21433","Pineapple juice",FALSE
+"21433.01","Juice of Pineapples, Concentrated",FALSE
+"21434","Grape juice",FALSE
+"21435.01","Apple Juice",FALSE
+"21435.02","Apple Juice, Concentrated",FALSE
+"21439.01","Juice of Tangerine",FALSE
+"21439.02","Juice of Lemon",FALSE
+"21439.03","Lemon Juice, Concentrated",FALSE
+"21439.04","Juice of Citrus Fruit nes",FALSE
+"21439.05","Citrus Juice, Concentrated nes",FALSE
+"21439.07","Juice of plum, concentrated",FALSE
+"21439.08","Juice of Mango",FALSE
+"21491","Pineapples, otherwise prepared or preserved",FALSE
+"21495.01","Prepared Groundnuts",FALSE
+"21495.02","Peanut Butter",FALSE
+"21499.01","Mango Pulp",FALSE
+"21522","Poultry fat, rendered",FALSE
+"21673","Oil of olive residues",FALSE
+"21700.01","Liquid Margarine",FALSE
+"22251.03","Whey Cheese",FALSE
+"22251.04","Processed Cheese",FALSE
+"23912.02","Coffee Extracts",FALSE
+"22270","Ice cream and other edible ice",FALSE
+"23140.03","Breakfast Cereals",FALSE
+"23140.08","Cereal Preparations",FALSE
+"23180","Mixes and doughs for the preparation of bakers' wares",FALSE
+"23210.03","Other Fructose and Syrup",FALSE
+"23210.04","Sugar and Syrups nes",FALSE
+"23210.05","Glucose and Dextrose",FALSE
+"23210.06","Lactose",FALSE
+"23490.01","Bread and other bakers wares, nec",FALSE
+"23520","Refined sugar",FALSE
+"23530","Refined cane or beet sugar, in solid form, containing added flavouring or colouring matter; maple sugar and maple syrup",FALSE
+"23670.01","Sugar Confectionery",FALSE
+"23670.02","Fruit, Nuts, Peel, Sugar Preserved",FALSE
+"23710","Uncooked pasta, not stuffed or otherwise prepared",FALSE
+"23911","Coffee, decaffeinated or roasted",FALSE
+"23991.01","Infant Food",FALSE
+"23991.02","Homogenized Vegetable Preparations",FALSE
+"23991.03","Homogenized Cooked Fruit, Prepared",FALSE
+"23991.04","Homogenized Meat Preparations",FALSE
+"23993.01","Egg Albumin",FALSE
+"23993.02","Eggs, Liquid",FALSE
+"23993.03","Eggs, Dried",FALSE
+"23995.01","Soya Sauce",FALSE
+"23999.01","Malt Extract",FALSE
+"23999.02","Food Preparations of Flour, Meal or Malt Extract",TRUE
+"24220","Vermouth and other wine of fresh grapes flavoured with plats or aromatic substances",FALSE
+"24230.02","Rice-Fermented Beverages",FALSE
+"24230.03","Cider and other fermented beverages",FALSE
+"24490","Other non-alcoholic caloric beverages",FALSE
+"F0020","bread",FALSE
+"F0022","pastry",FALSE
+"F0235","prepared nuts",FALSE
+"F0262","olives preserved",FALSE
+"F0472","vegetables preserved nes (o/t vinegar)",FALSE
+"F0473","vegetables frozen",FALSE
+"F0475","vegetables preserved (frozen)",FALSE
+"F0665","cocoa powder and cake",FALSE
+"F0666","chocolate products nes",FALSE
+"F0875","beef and veal preparations nes",FALSE
+"F1042","pig meat preparations",FALSE
+"F1061","poultry meat preparations",FALSE
+"F1172","meat prepared n.e.",FALSE
+"F1232","food preparations n.e.",FALSE
+"F1275","hydrogenated oils and fats",FALSE
+"23170.04","Flour of Fruits",TRUE
+"23170.03","Flour of Pulses",TRUE
+"23170.02","Flour of Roots and Tubers nes",TRUE
+"23170.01","Flour of Cassava",TRUE
+"23120.90","Flour of Cereals nes",TRUE
+"23120.10","Flour of Mixed Grain",TRUE
+"23120.09","Flour of Triticale",TRUE
+"23120.08","Flour of Fonio",TRUE
+"23120.07","Flour of Buckwheat",TRUE
+"23120.06","Flour of Sorghum",TRUE
+"23120.05","Flour of Millet",TRUE
+"23120.04","Flour of Rye",TRUE
+"23120.03","Flour of Maize",TRUE
+"23120.02","Barley Flour and Grits",TRUE
+"23120.01","Flour of Rice",TRUE
+"21920","Flours and meals of oil seeds or oleaginous fruits, except those of mustard",TRUE
+"39130.02","Maize Gluten",FALSE
+"24110","Undenatured ethyl alcohol of an alcoholic strength by volume of 80% vol or higher",FALSE
+"2413","Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80% vol; spirits, liqueurs and other spirituous beverages",FALSE
+"39120.02","Bran of Rice",FALSE
+"22130.01","Whey, Condensed",FALSE
+"F1243","fat preparations n.e.",FALSE
+"21529.03","Animal Oils and Fats nes",FALSE
+"34120","Industrial monocarboxylic fatty acids; acid oils from refining/n",FALSE
+"34550","Animal or vegetable fats and oils and their fractions, chemically modified, except those hydrogenated, inter-esterified, re-esterified or elaidinized; inedible mixtures or preparations of animal or vegetable fats or oils/n",FALSE
+"39130.04","Gluten Feed and Meal",FALSE
+"21691.10","Stillingia oil",NA
+"23220.04","Starch of Maize",TRUE

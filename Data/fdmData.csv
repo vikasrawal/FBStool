@@ -1,0 +1,262 @@
+"CPCCode","Commodity","FBSCode","FBSCommodity","Food Demand","Food Function","Description","Elasticity"
+"01199.90","other cereals n.e.c.","2520","Cereals, Other","8","0","linear",0
+"01211","asparagus","2605","Vegetables, Other","21","2","semi-log",0.4
+"01212","cabbages","2605","Vegetables, Other","21","2","semi-log",0.4
+"01213","cauliflowers and broccoli","2605","Vegetables, Other","21","2","semi-log",0.4
+"01214","lettuce and chicory","2605","Vegetables, Other","21","2","semi-log",0.4
+"01215","spinach","2605","Vegetables, Other","21","2","semi-log",0.4
+"01216","artichokes","2605","Vegetables, Other","21","2","semi-log",0.4
+"01221","watermelons","2625","Fruits, Other","26","2","semi-log",0.8
+"01229","cantaloupes and other melons","2625","Fruits, Other","26","2","semi-log",0.8
+"01231","chillies and peppers, green (capsicum spp. and pimenta spp.)","2605","Vegetables, Other","21","2","semi-log",0.4
+"01232","cucumbers and gherkins","2605","Vegetables, Other","21","2","semi-log",0.4
+"01233","eggplants (aubergines)","2605","Vegetables, Other","21","2","semi-log",0.4
+"01234","tomatoes","2601","Tomatoes and products","21","2","semi-log",0.4
+"01235","pumpkins, squash and gourds","2605","Vegetables, Other","21","2","semi-log",0.4
+"01241.90","other beans, green","2605","Vegetables, Other","21","2","semi-log",0.4
+"01242","peas, green","2605","Vegetables, Other","21","2","semi-log",0.4
+"01243","broad beans and horse beans, green","2605","Vegetables, Other","21","2","semi-log",0.4
+"01251","carrots and turnips","2605","Vegetables, Other","21","2","semi-log",0.4
+"01252","green garlic","2605","Vegetables, Other","21","2","semi-log",0.4
+"01253.02","onions and shallots, dry (excluding dehydrated)","2602","Onions","21","2","semi-log",0.4
+"01254","leeks and other alliaceous vegetables","2605","Vegetables, Other","21","2","semi-log",0.4
+"01270","mushrooms and truffles","2605","Vegetables, Other","21","2","semi-log",0.4
+"01290.90","other vegetables, fresh n.e.c.","2605","Vegetables, Other","21","2","semi-log",0.4
+"01311","avocados","2625","Fruits, Other","26","2","semi-log",0.8
+"01312","bananas","2615","Bananas","25","2","semi-log",0.6
+"01313","plantains and others","2616","Plantains","13","2","semi-log",0.499
+"01314","dates","2619","Dates","26","2","semi-log",0.8
+"01315","figs","2625","Fruits, Other","26","2","semi-log",0.8
+"01316","mangoes, guavas, mangosteens","2625","Fruits, Other","26","2","semi-log",0.8
+"01317","papayas","2625","Fruits, Other","26","2","semi-log",0.8
+"01318","pineapples","2618","Pineapples and products","26","2","semi-log",0.8
+"01319","other tropical fruits, n.e.c.","2625","Fruits, Other","26","2","semi-log",0.8
+"01321","pomelos and grapefruits","2613","Grapefruit and products","24","0","linear",0
+"01322","lemons and limes","2612","Lemons, Limes and products","23","0","linear",0
+"01323","oranges","2611","Oranges, Mandarines","22","1","log-log",0.8
+"01324","tangerines, mandarins, clementines","2611","Oranges, Mandarines","22","1","log-log",0.8
+"01329","other citrus fruit, n.e.c.","2614","Citrus Fruit nes & prod","24","0","linear",0
+"01330","grapes","2620","Grapes and products (excl wine)","26","2","semi-log",0.8
+"01341","apples","2617","Apples and products","26","2","semi-log",0.8
+"01342.01","pears","2625","Fruits, Other","26","2","semi-log",0.8
+"01343","apricots","2625","Fruits, Other","26","2","semi-log",0.8
+"01344.01","sour cherries","2625","Fruits, Other","26","2","semi-log",0.8
+"01344.02","cherries","2625","Fruits, Other","26","2","semi-log",0.8
+"01345","peaches and nectarines","2625","Fruits, Other","26","2","semi-log",0.8
+"01346","plums and sloes","2625","Fruits, Other","26","2","semi-log",0.8
+"01351.01","currants","2625","Fruits, Other","26","2","semi-log",0.8
+"01352","kiwi fruit","2625","Fruits, Other","26","2","semi-log",0.8
+"01353.01","raspberries","2625","Fruits, Other","26","2","semi-log",0.8
+"01354","strawberries","2625","Fruits, Other","26","2","semi-log",0.8
+"01355.90","other berries and fruits of the genus vaccinium","2625","Fruits, Other","26","2","semi-log",0.8
+"01359.90","other fruits n.e.c.","2625","Fruits, Other","26","2","semi-log",0.8
+"01371","almonds, in shell","2551","Nuts and products","19","2","semi-log",0.3
+"01372","cashew nuts, in shell","2551","Nuts and products","19","2","semi-log",0.3
+"01373","chestnuts, in shell","2551","Nuts and products","19","2","semi-log",0.3
+"01374","hazelnuts, in shell","2551","Nuts and products","19","2","semi-log",0.3
+"01375","pistachios, in shell","2551","Nuts and products","19","2","semi-log",0.3
+"01376","walnuts, in shell","2551","Nuts and products","19","2","semi-log",0.3
+"01377","brazil nuts, in shell","2551","Nuts and products","19","2","semi-log",0.3
+"01379.01","areca nuts","2551","Nuts and products","19","2","semi-log",0.3
+"01379.90","other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.","2551","Nuts and products","19","2","semi-log",0.3
+"0141","soya beans","2555","Soyabeans","20","2","semi-log",0.5
+"01442","mustard seed","2558","Rape and Mustardseed","20","2","semi-log",0.5
+"01444","sesame seed","2561","Sesame seed","20","2","semi-log",0.5
+"01445","sunflower seed","2557","Sunflower seed","20","2","semi-log",0.5
+"01450","olives","2563","Olives (including preserved)","20","2","semi-log",0.5
+"01460","coconuts, in shell","2560","Coconuts - Incl Copra","20","2","semi-log",0.5
+"01510","potatoes","2531","Potatoes and products","9","2","semi-log",0.6
+"01520.01","cassava, fresh","2532","Cassava and products","11","0","linear",0
+"01520.02","cassava, dried","2532","Cassava and products","11","0","linear",0
+"01530","sweet potatoes","2533","Sweet potatoes","10","2","semi-log",0.6
+"01599.10","edible roots and tubers with high starch or inulin content, n.e.c., fresh","2534","Roots, Other","14","0","linear",0
+"01610","coffee, green","2630","Coffee and products","44","1","log-log",0.7
+"01620","tea leaves","2635","Tea (including mate)","45","2","semi-log",1
+"01630","maté leaves","2635","Tea (including mate)","45","2","semi-log",1
+"01651","pepper (piper spp.), raw","2640","Pepper","42","2","semi-log",0.6
+"01652","chillies and peppers, dry (capsicum spp. and pimenta spp.), raw","2641","Pimento","42","2","semi-log",0.6
+"01653","nutmeg, mace, cardamoms, raw","2645","Spices, Other","42","2","semi-log",0.6
+"01654","anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw","2645","Spices, Other","42","2","semi-log",0.6
+"01655","cinnamon and cinnamon-tree flowers, raw","2645","Spices, Other","42","2","semi-log",0.6
+"01657","ginger, raw","2645","Spices, Other","42","2","semi-log",0.6
+"01699","other stimulant, spice and aromatic crops, n.e.c.","2645","Spices, Other","42","2","semi-log",0.6
+"01701","beans, dry","2546","Beans","18","2","semi-log",0.4
+"01702","broad beans and horse beans, dry","2549","Pulses, Other and products","18","2","semi-log",0.4
+"01703","chick peas, dry","2549","Pulses, Other and products","18","2","semi-log",0.4
+"01704","lentils, dry","2549","Pulses, Other and products","18","2","semi-log",0.4
+"01705","peas, dry","2547","Peas","18","2","semi-log",0.4
+"01709.90","other pulses n.e.c.","2549","Pulses, Other and products","18","2","semi-log",0.4
+"02211","raw milk of cattle","2848","Milk - Excluding Butter","37","1","log-log",1.2
+"0231","hen eggs in shell, fresh","2744","Eggs","33","1","log-log",1
+"0232","eggs from other birds in shell, fresh, n.e.c.","2744","Eggs","33","1","log-log",1
+"02910","natural honey","2745","Honey","17","1","log-log",1
+"02920","snails, fresh, chilled, frozen, dried, salted or in brine, except sea snails","2735","Meat, Other","31","1","log-log",0.7
+"21111.01","meat of cattle with the bone, fresh or chilled","2731","Bovine Meat","27","1","log-log",0.8
+"21111.02","meat of cattle boneless, fresh or chilled","2731","Bovine Meat","27","1","log-log",0.8
+"21113.01","meat of pig with the bone, fresh or chilled","2733","Pigmeat","29","1","log-log",0.7
+"21113.02","meat of pig boneless, fresh or chilled","2733","Pigmeat","29","1","log-log",0.7
+"21115","meat of sheep, fresh or chilled","2732","Mutton & Goat Meat","28","1","log-log",1
+"21116","meat of goat, fresh or chilled","2732","Mutton & Goat Meat","28","1","log-log",1
+"21121","meat of chickens, fresh or chilled","2734","Poultry Meat","30","1","log-log",1
+"21122","meat of ducks, fresh or chilled","2734","Poultry Meat","30","1","log-log",1
+"21124","meat of turkeys, fresh or chilled","2734","Poultry Meat","30","1","log-log",1
+"21151","edible offal of cattle, fresh, chilled or frozen","2736","Offals, Edible","32","1","log-log",0.7
+"21153","edible offal of pigs, fresh, chilled or frozen","2736","Offals, Edible","32","1","log-log",0.7
+"21155","edible offal of sheep, fresh, chilled or frozen","2736","Offals, Edible","32","1","log-log",0.7
+"21156","edible offal of goat, fresh, chilled or frozen","2736","Offals, Edible","32","1","log-log",0.7
+"21170.02","game meat, fresh, chilled or frozen","2735","Meat, Other","31","1","log-log",0.7
+"21170.92","other meat n.e.c., fresh, chilled or frozen","2735","Meat, Other","31","1","log-log",0.7
+"21181","pig meat, cuts, salted, dried or smoked (bacon and ham)","2733","Pigmeat","29","1","log-log",0.7
+"21182","bovine meat, salted, dried or smoked","2731","Bovine Meat","27","1","log-log",0.8
+"21183","other meat and edible meat offal, salted, in brine, dried or smoked; edible flours and meals of meat or meat offal","2735","Meat, Other","31","1","log-log",0.7
+"21184.02","sausages and similar products of meat, offal or blood of pig","2733","Pigmeat","29","1","log-log",0.7
+"21185","extracts and juices of meat, fish, crustaceans, molluscs or other aquatic invertebrates","2731","Bovine Meat","27","1","log-log",0.8
+"21313","potatoes, frozen","2531","Potatoes and products","9","2","semi-log",0.6
+"21319.01","sweet corn, frozen","2605","Vegetables, Other","21","2","semi-log",0.4
+"21321","tomato juice","2601","Tomatoes and products","21","2","semi-log",0.4
+"21330.90","other vegetables provisionally preserved","2605","Vegetables, Other","21","2","semi-log",0.4
+"21340","vegetables, pulses and potatoes, preserved by vinegar or acetic acid","2605","Vegetables, Other","21","2","semi-log",0.4
+"21392","flour, meal, powder, flakes, granules and pellets of potatoes","2531","Potatoes and products","9","2","semi-log",0.6
+"21393.01","dried mushrooms","2605","Vegetables, Other","21","2","semi-log",0.4
+"21393.90","vegetables, dehydrated","2605","Vegetables, Other","21","2","semi-log",0.4
+"21397.01","canned mushrooms","2605","Vegetables, Other","21","2","semi-log",0.4
+"21399.01","paste of tomatoes","2601","Tomatoes and products","21","2","semi-log",0.4
+"21399.02","tomatoes, peeled (o/t vinegar)","2601","Tomatoes and products","21","2","semi-log",0.4
+"21399.03","sweet corn, prepared or preserved","2605","Vegetables, Other","21","2","semi-log",0.4
+"21411","raisins","2620","Grapes and products (excl wine)","26","2","semi-log",0.8
+"21412","plums, dried","2625","Fruits, Other","26","2","semi-log",0.8
+"21419.01","apricots, dried","2625","Fruits, Other","26","2","semi-log",0.8
+"21419.91","other tropical fruit, dried","2625","Fruits, Other","26","2","semi-log",0.8
+"21419.99","other fruit n.e.c., dried","2625","Fruits, Other","26","2","semi-log",0.8
+"21421","groundnuts, shelled","2556","Groundnuts (Shelled Eq)","20","2","semi-log",0.5
+"21422","almonds, shelled","2551","Nuts and products","19","2","semi-log",0.3
+"21423","hazelnuts, shelled","2551","Nuts and products","19","2","semi-log",0.3
+"21424","cashew nuts, shelled","2551","Nuts and products","19","2","semi-log",0.3
+"21429.01","brazil nuts, shelled","2551","Nuts and products","19","2","semi-log",0.3
+"21429.02","walnuts, shelled","2551","Nuts and products","19","2","semi-log",0.3
+"21429.07","coconuts, desiccated","2560","Coconuts - Incl Copra","20","2","semi-log",0.5
+"21431.01","orange juice","2611","Oranges, Mandarines","22","1","log-log",0.8
+"21431.02","orange juice, concentrated","2611","Oranges, Mandarines","22","1","log-log",0.8
+"21432","grapefruit juice","2613","Grapefruit and products","24","0","linear",0
+"21433","pineapple juice","2618","Pineapples and products","26","2","semi-log",0.8
+"21434","grape juice","2620","Grapes and products (excl wine)","26","2","semi-log",0.8
+"21435.01","apple juice","2617","Apples and products","26","2","semi-log",0.8
+"21435.02","apple juice, concentrated","2617","Apples and products","26","2","semi-log",0.8
+"21439.04","juice of citrus fruit nes","2614","Citrus Fruit nes & prod","24","0","linear",0
+"21439.05","citrus juice, concentrated nes","2614","Citrus Fruit nes & prod","24","0","linear",0
+"21439.9",NA,"2625","Fruits, Other","26","2","semi-log",0.8
+"21491","pineapples, otherwise prepared or preserved","2618","Pineapples and products","26","2","semi-log",0.8
+"21495.01","prepared groundnuts","2556","Groundnuts (Shelled Eq)","20","2","semi-log",0.5
+"21495.02","peanut butter","2556","Groundnuts (Shelled Eq)","20","2","semi-log",0.5
+"21511.01","fat of pigs","2737","Fats, Animals, Raw","41","1","log-log",0.6
+"21512","cattle fat, unrendered","2737","Fats, Animals, Raw","41","1","log-log",0.6
+"21514","sheep fat, unrendered","2737","Fats, Animals, Raw","41","1","log-log",0.6
+"21515","goat fat, unrendered","2737","Fats, Animals, Raw","41","1","log-log",0.6
+"21521","pig fat, rendered","2737","Fats, Animals, Raw","41","1","log-log",0.6
+"21523","tallow","2737","Fats, Animals, Raw","41","1","log-log",0.6
+"21529.03","animal oils and fats nes","2737","Fats, Animals, Raw","41","1","log-log",0.6
+"2161","soya bean oil","2571","Soyabean Oil","40","1","log-log",0.8
+"2162","groundnut oil","2572","Groundnut Oil","40","1","log-log",0.8
+"21631.01","sunflower-seed oil, crude","2573","Sunflowerseed Oil","40","1","log-log",0.8
+"21641.01","rapeseed or canola oil , crude","2574","Rape and Mustard Oil","40","1","log-log",0.8
+"2165","palm oil","2577","Palm Oil","40","1","log-log",0.8
+"2166","coconut oil","2578","Coconut Oil","40","1","log-log",0.8
+"2167","olive oil","2580","Olive Oil","40","1","log-log",0.8
+"2168","cottonseed oil","2575","Cottonseed Oil","40","1","log-log",0.8
+"21691.02","oil of maize","2582","Maize Germ Oil","40","1","log-log",0.8
+"21691.07","oil of sesame seed","2579","Sesameseed Oil","40","1","log-log",0.8
+"21691.14","oil of palm kernel","2576","Palmkernel Oil","40","1","log-log",0.8
+"21691.90","other oil of vegetable origin, crude n.e.c.","2586","Oilcrops Oil, Other","40","1","log-log",0.8
+"21700.02","margarine and shortening","2586","Oilcrops Oil, Other","40","1","log-log",0.8
+"22110.02","skim milk of cows","2848","Milk - Excluding Butter","37","1","log-log",1.2
+"22120","cream, fresh","2743","Cream","39","2","semi-log",0.499
+"22130.02","whey, dry","2848","Milk - Excluding Butter","37","1","log-log",1.2
+"22130.03","whey, condensed","2848","Milk - Excluding Butter","37","1","log-log",1.2
+"22211","whole milk powder","2848","Milk - Excluding Butter","37","1","log-log",1.2
+"22212","skim milk and whey powder","2848","Milk - Excluding Butter","37","1","log-log",1.2
+"22221.01","whole milk, evaporated","2848","Milk - Excluding Butter","37","1","log-log",1.2
+"22222.01","whole milk, condensed","2848","Milk - Excluding Butter","37","1","log-log",1.2
+"22230.01","yoghurt","2848","Milk - Excluding Butter","37","1","log-log",1.2
+"22230.02","yoghurt, with additives","2848","Milk - Excluding Butter","37","1","log-log",1.2
+"22230.03","buttermilk, curdled and acidified milk","2848","Milk - Excluding Butter","37","1","log-log",1.2
+"22230.04","buttermilk, dry","2848","Milk - Excluding Butter","37","1","log-log",1.2
+"22241.01","butter of cow milk","2740","Butter, Ghee","38","1","log-log",0.8
+"22241.02","ghee from cow milk","2740","Butter, Ghee","38","1","log-log",0.8
+"22251.01","cheese from whole cow milk","2848","Milk - Excluding Butter","37","1","log-log",1.2
+"22251.04","processed cheese","2848","Milk - Excluding Butter","37","1","log-log",1.2
+"22270","ice cream and other edible ice","2848","Milk - Excluding Butter","37","1","log-log",1.2
+"22290","dairy products n.e.c.","2848","Milk - Excluding Butter","37","1","log-log",1.2
+"23110","wheat and meslin flour","2511","Wheat and products","1","1","log-log",0.7
+"23120.01","flour of rice","2805","Rice (Milled Equivalent)","2","1","log-log",1
+"23120.02","barley flour and grits","2513","Barley and products","4","0","linear",0
+"23120.03","flour of maize","2514","Maize and products","3","2","semi-log",-0.1
+"23120.04","flour of rye","2515","Rye and products","8","0","linear",0
+"23120.05","flour of millet","2517","Millet and products","6","0","linear",0
+"23120.06","flour of sorghum","2518","Sorghum and products","7","0","linear",0
+"23120.10","flour of mixed grain","2520","Cereals, Other","8","0","linear",0
+"23120.90","flour of cereals nes","2520","Cereals, Other","8","0","linear",0
+"23140.01","germ of wheat","2511","Wheat and products","1","1","log-log",0.7
+"23140.03","breakfast cereals","2511","Wheat and products","1","1","log-log",0.7
+"23140.05","barley, pearled","2513","Barley and products","4","0","linear",0
+"23140.07","oats, rolled","2516","Oats and products","5","0","linear",0
+"23140.08","cereal preparations","2520","Cereals, Other","8","0","linear",0
+"23161.02","rice, milled","2805","Rice (Milled Equivalent)","2","1","log-log",1
+"23161.03","rice, broken","2805","Rice (Milled Equivalent)","2","1","log-log",1
+"23162","husked rice","2805","Rice (Milled Equivalent)","2","1","log-log",1
+"23170.01","flour of cassava","2532","Cassava and products","11","0","linear",0
+"23170.02","flour of roots and tubers nes","2534","Roots, Other","14","0","linear",0
+"23170.03","flour of pulses","2549","Pulses, Other and products","18","2","semi-log",0.4
+"23170.04","flour of fruits","2625","Fruits, Other","26","2","semi-log",0.8
+"23180","mixes and doughs for the preparation of bakers' wares","2511","Wheat and products","1","1","log-log",0.7
+"23210.01","fructose, chemically pure","2543","Sweeteners, Other","17","1","log-log",1
+"23210.03","other fructose and syrup","2543","Sweeteners, Other","17","1","log-log",1
+"23210.04","sugar and syrups nes","2543","Sweeteners, Other","17","1","log-log",1
+"23210.05","glucose and dextrose","2543","Sweeteners, Other","17","1","log-log",1
+"23210.06","lactose","2543","Sweeteners, Other","17","1","log-log",1
+"23230.01","tapioca of potatoes","2531","Potatoes and products","9","2","semi-log",0.6
+"23490.01","communion wafers, empty cachets of a kind suitable for pharmaceutical use, sealing wafers, rice paper and similar products.","2511","Wheat and products","1","1","log-log",0.7
+"23520","refined sugar","2542","Sugar (Raw Equivalent)","15","2","semi-log",0.91
+"23530","refined cane or beet sugar, in solid form, containing added flavouring or colouring matter; maple sugar and maple syrup","2543","Sweeteners, Other","17","1","log-log",1
+"23620","cocoa butter, fat and oil","2586","Oilcrops Oil, Other","40","1","log-log",0.8
+"23670.01","sugar confectionery","2542","Sugar (Raw Equivalent)","15","2","semi-log",0.91
+"23670.02","fruit, nuts, peel, sugar preserved","2625","Fruits, Other","26","2","semi-log",0.8
+"23710","uncooked pasta, not stuffed or otherwise prepared","2511","Wheat and products","1","1","log-log",0.7
+"23911","coffee, decaffeinated or roasted","2630","Coffee and products","44","1","log-log",0.7
+"23912.01","coffee substitutes","2605","Vegetables, Other","21","2","semi-log",0.4
+"23912.02","coffee extracts","2630","Coffee and products","44","1","log-log",0.7
+"23991.01","infant food","2680","Infant food","46","0","linear",0
+"23991.02","homogenized vegetable preparations","2605","Vegetables, Other","21","2","semi-log",0.4
+"23991.03","homogenized cooked fruit, prepared","2625","Fruits, Other","26","2","semi-log",0.8
+"23991.04","homogenized meat preparations","2731","Bovine Meat","27","1","log-log",0.8
+"23993.01","egg albumin","2744","Eggs","33","1","log-log",1
+"23993.02","eggs, liquid","2744","Eggs","33","1","log-log",1
+"23993.03","eggs, dried","2744","Eggs","33","1","log-log",1
+"23995.01","soya sauce","2555","Soyabeans","20","2","semi-log",0.5
+"23995.03","flour of mustard seed","2558","Rape and Mustardseed","20","2","semi-log",0.5
+"23999.01","malt extract","2513","Barley and products","4","0","linear",0
+"23999.02","food preparations of flour, meal or malt extract","2511","Wheat and products","1","1","log-log",0.7
+"2413","undenatured ethyl alcohol of an alcoholic strength by volume of less than 80% vol; spirits, liqueurs and other spirituous beverages","2658","Beverages, Alcoholic","49","1","log-log",1.2
+"24212.02","wine","2655","Wine","47","1","log-log",1.5
+"24220","vermouth and other wine of fresh grapes flavoured with plats or aromatic substances","2655","Wine","47","1","log-log",1.5
+"24230.03","cider and other fermented beverages","2657","Beverages, Fermented","49","1","log-log",1.2
+"24310.01","beer of barley, malted","2656","Beer","48","2","semi-log",1
+"24310.02","beer of maize, malted","2657","Beverages, Fermented","49","1","log-log",1.2
+"24310.03","beer of millet, malted","2657","Beverages, Fermented","49","1","log-log",1.2
+"24310.04","beer of sorghum, malted","2657","Beverages, Fermented","49","1","log-log",1.2
+"24490","other non-alcoholic caloric beverages n.e.c","2543","Sweeteners, Other","17","1","log-log",1
+"F0020","bread","2511","Wheat and products","1","1","log-log",0.7
+"F0022","pastry","2511","Wheat and products","1","1","log-log",0.7
+"F0235","prepared nuts","2551","Nuts and products","19","2","semi-log",0.3
+"F0262","olives preserved","2563","Olives (including preserved)","20","2","semi-log",0.5
+"F0472","vegetables preserved nes (o/t vinegar)","2605","Vegetables, Other","21","2","semi-log",0.4
+"F0473","vegetables frozen","2605","Vegetables, Other","21","2","semi-log",0.4
+"F0475","vegetables preserved (frozen)","2605","Vegetables, Other","21","2","semi-log",0.4
+"F0623","fruit prepared n.e.c.","2625","Fruits, Other","26","2","semi-log",0.8
+"F0665","cocoa powder and cake","2633","Cocoa Beans and products","43","2","semi-log",1
+"F0666","chocolate products nes","2633","Cocoa Beans and products","43","2","semi-log",1
+"F0875","beef and veal preparations nes","2731","Bovine Meat","27","1","log-log",0.8
+"F1042","pig meat preparations","2733","Pigmeat","29","1","log-log",0.7
+"F1061","poultry meat preparations","2734","Poultry Meat","30","1","log-log",1
+"F1172","meat prepared n.e.c.","2735","Meat, Other","31","1","log-log",0.7
+"F1243","fat preparations n.e.c.","2737","Fats, Animals, Raw","41","1","log-log",0.6
+"F1275","hydrogenated oils and fats","2586","Oilcrops Oil, Other","40","1","log-log",0.8
